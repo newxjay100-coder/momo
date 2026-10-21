@@ -4,7 +4,7 @@
   "version": 5,
   "name": "City Block",
   "previsMode": "animation",
-  "savedAt": 1792549965449,
+  "savedAt": 1792554132672,
   "scenes": {
     "version": 5,
     "activeSceneId": "scene-mt1b9laj-2",
@@ -755,14 +755,14 @@
         ],
         "shotDocument": {
           "version": 5,
-          "frameCount": 195,
+          "frameCount": 223,
           "waypoints": [],
           "shots": [
             {
               "id": "shot-mvhf3j5y-33",
               "name": "Shot 1",
               "startFrame": 0,
-              "endFrame": 194,
+              "endFrame": 222,
               "cameraKeys": [
                 {
                   "id": "camera-key-mvhf3j5y-32",
@@ -805,19 +805,89 @@
                     "pitch": -0.22439481669353664,
                     "fovDeg": 58.71550708558255
                   }
+                },
+                {
+                  "id": "camera-key-mvhi5ovc-68",
+                  "frame": 200,
+                  "framing": {
+                    "pos": {
+                      "x": 6,
+                      "y": 3.6,
+                      "z": 4.1
+                    },
+                    "yaw": 1.5337762109209667,
+                    "pitch": -0.22439481669353664,
+                    "fovDeg": 58.71550708558255
+                  }
+                },
+                {
+                  "id": "camera-key-mvhi5uyi-69",
+                  "frame": 205,
+                  "framing": {
+                    "pos": {
+                      "x": 0.2,
+                      "y": 2.05,
+                      "z": 3.65
+                    },
+                    "yaw": 1.5314465704062912,
+                    "pitch": -0.18283133242700994,
+                    "fovDeg": 20.861693160903002
+                  }
+                },
+                {
+                  "id": "camera-key-mvhi4ype-67",
+                  "frame": 206,
+                  "framing": {
+                    "pos": {
+                      "x": 0.2,
+                      "y": 2.05,
+                      "z": 3.65
+                    },
+                    "yaw": 1.5314465704062912,
+                    "pitch": -0.18283133242700994,
+                    "fovDeg": 20.861693160903002
+                  }
+                },
+                {
+                  "id": "camera-key-mvhi69fr-70",
+                  "frame": 210,
+                  "framing": {
+                    "pos": {
+                      "x": 0.2,
+                      "y": 2.05,
+                      "z": 3.65
+                    },
+                    "yaw": 1.5314465704062912,
+                    "pitch": -0.18283133242700994,
+                    "fovDeg": 20.861693160903002
+                  }
+                },
+                {
+                  "id": "camera-key-mvhi6efq-71",
+                  "frame": 222,
+                  "framing": {
+                    "pos": {
+                      "x": 6,
+                      "y": 3.6,
+                      "z": 4.1
+                    },
+                    "yaw": 1.5337762109209667,
+                    "pitch": -0.22439481669353664,
+                    "fovDeg": 58.71550708558255
+                  }
                 }
               ],
               "camera": {
                 "mode": "keys",
                 "followCam": {
-                  "distance": 8.54,
-                  "height": 11.5,
+                  "distance": 10.87,
+                  "height": 3.92,
                   "response": 0.7,
                   "lead": 0.25,
                   "railStartMode": "head",
                   "maxDollySpeed": 4,
-                  "pitchOffsetDeg": -29.4,
-                  "orbitOffsetDeg": -174.3
+                  "pitchOffsetDeg": 0.4,
+                  "orbitOffsetDeg": 126.4
                 },
                 "cameraRail": null,
                 "railFollow": null,
@@ -2630,7 +2700,27 @@
                     }
                   }
                 },
-                "takeId": "347dc7bd-6a39-43b5-a4b1-fccc4cc459ad"
+                "takeId": "347dc7bd-6a39-43b5-a4b1-fccc4cc459ad",
+                "edit": [
+                  {
+                    "id": "motion-0-a",
+                    "sourceStart": 0,
+                    "sourceEnd": 149,
+                    "speed": 1
+                  },
+                  {
+                    "id": "motion-0-b-a",
+                    "sourceStart": 150,
+                    "sourceEnd": 177,
+                    "speed": 0.5
+                  },
+                  {
+                    "id": "motion-0-b-b",
+                    "sourceStart": 178,
+                    "sourceEnd": 194,
+                    "speed": 1
+                  }
+                ]
               }
             }
           ]
