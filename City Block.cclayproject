@@ -4,7 +4,7 @@
   "version": 5,
   "name": "City Block",
   "previsMode": "animation",
-  "savedAt": 1792549268023,
+  "savedAt": 1792549589141,
   "scenes": {
     "version": 5,
     "activeSceneId": "scene-mt1b9laj-2",
@@ -769,13 +769,13 @@
                   "frame": 0,
                   "framing": {
                     "pos": {
-                      "x": -1.7,
-                      "y": 11.5,
-                      "z": 0.1
+                      "x": 6,
+                      "y": 3.6,
+                      "z": -7.5
                     },
-                    "yaw": 0,
-                    "pitch": -1.346085158380254,
-                    "fovDeg": 49.426353760931796
+                    "yaw": 2.181978703749401,
+                    "pitch": -0.25609787320892924,
+                    "fovDeg": 37.29907750810282
                   }
                 },
                 {
@@ -783,13 +783,13 @@
                   "frame": 130,
                   "framing": {
                     "pos": {
-                      "x": -2.2,
-                      "y": 11.5,
-                      "z": 6.2
+                      "x": 6,
+                      "y": 4.2,
+                      "z": 4.1
                     },
-                    "yaw": -0.041642579098588456,
-                    "pitch": -1.328042554347388,
-                    "fovDeg": 49.426353760931796
+                    "yaw": 1.5337762109209667,
+                    "pitch": -0.2419122328570632,
+                    "fovDeg": 37.29907750810282
                   }
                 },
                 {
@@ -797,27 +797,27 @@
                   "frame": 150,
                   "framing": {
                     "pos": {
-                      "x": -2.2,
-                      "y": 11.5,
-                      "z": 6.2
+                      "x": 6,
+                      "y": 4.2,
+                      "z": 4.1
                     },
-                    "yaw": -0.041642579098588456,
-                    "pitch": -1.328042554347388,
-                    "fovDeg": 49.426353760931796
+                    "yaw": 1.5337762109209667,
+                    "pitch": -0.1829881388242872,
+                    "fovDeg": 37.29907750810282
                   }
                 }
               ],
               "camera": {
                 "mode": "keys",
                 "followCam": {
-                  "distance": 15,
-                  "height": 6.51,
+                  "distance": 8.54,
+                  "height": 11.5,
                   "response": 0.7,
                   "lead": 0.25,
                   "railStartMode": "head",
                   "maxDollySpeed": 4,
-                  "pitchOffsetDeg": -3.7,
-                  "orbitOffsetDeg": 175.1
+                  "pitchOffsetDeg": -29.4,
+                  "orbitOffsetDeg": -174.3
                 },
                 "cameraRail": null,
                 "railFollow": null,
